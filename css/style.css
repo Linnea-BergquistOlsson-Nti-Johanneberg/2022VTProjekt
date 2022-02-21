@@ -1,1 +1,16 @@
 /* Denna fil skall innehålla din CSS kod */
+
+* {
+    margin: 0px;
+    padding: 0px; 
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    background-color: black;
+    font-family: sans-serif;
+}
